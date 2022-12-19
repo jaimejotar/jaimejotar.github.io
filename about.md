@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Jaime Jiménez Ruiz
 
-### More Information
+- Ingeniero Civil Biomédico. Universidad de Concepción.
+- Magíster en Ciencias de la Ingeniería con Mención en Ingeniería Eléctrica.
+- Estudiante Magíster en Inteligencia Artificial, Pontificia Universidad Católica de Chile
+- Co-Founder Healthtracker Analytics
+- IEEE - EMBS Member
 
-A place to include any other types of information that you'd like to include about yourself.
+### Más Información
 
-### Contact me
+🌈🐶🎲♟🎬👨‍💻
 
-[email@domain.com](mailto:email@domain.com)
+### Contacto
+
+[j.jimenez@healthtracker.ai](mailto:j.jimenez@healthtracker.ai)
