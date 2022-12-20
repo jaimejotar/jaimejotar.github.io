@@ -3,7 +3,7 @@ layout: post
 title: Sistemas Recomendadores - Desafíos al futuro.
 ---
 
-Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, como la recomendación de productos en línea (Amazon, Mercado Libre, otras tiendas digitales y publicidad de tiendas en redes sociales), la personalización de contenido en plataformas de medios y redes sociales (nuestro "feed" de Twitter, Facebook, Instagram, Twitter). Aún existen múltiples desafíos en el campo de sistemas recomendadores. Limitemos a tres de los más importantes:
+Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, como la recomendación de productos en línea (Amazon, eBay, Mercado Libre, otras tiendas digitales y publicidad de tiendas en redes sociales) o en la personalización de contenido en plataformas de medios y redes sociales (nuestro "feed" de Twitter, Facebook, Instagram, Twitter). Aún existen múltiples desafíos en el campo de sistemas recomendadores. Limitemos a tres de los más importantes:
 
 ## 1. Calidad de los datos.
 
@@ -36,6 +36,6 @@ Específicamente para Sistemas Recomendadores existen desafíos inherentes a la 
 
 Existen desafíos abiertos para resolver en torno a los Sistemas Recomendadores, más aún, con la popularidad de algoritmos basados en redes neuronales profundas que funcionan como "Cajas Negras" que son difíciles de explicar y visualizar. Sin embargo, hay agrupaciones que han empezado a generar conciencia sobre el impacto que tienen o podrían llegar a tener estos algoritmos en nuestro día a día. Tener conciencia sobre estas problematicas, como desarrolladores es el primer paso, tenemos que ser concientes y buscas posibles soluciones antes de que nuestros desarrollos puedan generar un impacto negativo en el mundo real.
 
-Es nuestro deber como desarrolladores y como personas, buscar generar soluciones que no generen un impacto negativo en grupos de nuestra sociedad.
+Es nuestro deber como desarrolladores, buscar generar soluciones que no generen un impacto negativo en grupos de nuestra sociedad.
 
 _J.J.R_
