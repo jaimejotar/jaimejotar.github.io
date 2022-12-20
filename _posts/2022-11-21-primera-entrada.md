@@ -96,8 +96,18 @@ Específicamente para Sistemas Recomendadores existen desafíos inherentes a la 
 ![chatGPT3](https://user-images.githubusercontent.com/42724306/208569949-3d947fae-266d-44c4-94cb-4a830501edc4.JPG)
 
 
-- ** Del usuario a los datos**: 
+- **Del usuario a los datos**: Sesgo de selección (por el interés del usuario), Sesgo de Exposición (por popularidad de un item), Sesgo de conformidad (por conformidad al contenido recomendado), Sesgo por posicionamiento (por confianza del usuario en el top propuesto, no promueve su exploración de nuevos contenidos). Estos sesgos pueden ser enfrentados mediante modelos que incluyan la veracidad de un contenido, que incluyan un "Propensity Score" y modelando los efectos de popularidad de los contenidos.
+- **De los datos al modelo**: Sesgo inductivo incluido por los desarrolladores. En teoría, corresponde a soluciones para mejorar la generalización y rendimiento de los modelos.
+- **Del modelo al usuario**: Sesgo por popularidad y sesgo por inequidad. Estos problemas generalmente son generados por el propio algoritmo debido a su entrenamiento y el desbalance de los datos. Posibles soluciones implican un conocimiento sobre los datos de entrenamiento para rebalanceo, regularización y aprendizaje adversario.
+- **Sistema completo**: Sesgo retroalimentado. Un sesgo retroalimentado por la triangulación, decisión del usuario, datos de entrenamiento del modelo y recomendación del modelo. Para "romper" este loop, es posible incluir recomendaciones aleatorias y aprendizaje reforzado.
 
+## Comentarios finales.
+
+Existen desafíos abiertos para resolver en torno a los Sistemas Recomendadores, más aún, con la popularidad de algoritmos basados en redes neuronales profundas que funcionan como "Cajas Negras" que son difíciles de explicar y visualizar. Sin embargo, hay agrupaciones que han empezado a generar conciencia sobre el impacto que tienen o podrían llegar a tener estos algoritmos en nuestro día a día. Tener conciencia sobre estas problematicas, como desarrolladores es el primer paso, tenemos que ser concientes y buscas posibles soluciones antes de que nuestros desarrollos puedan generar un impacto negativo en el mundo real.
+
+Es nuestro deber como desarrolladores y como personas, buscar generar soluciones que no generen un impacto negativo en grupos de nuestra sociedad.
+
+J.J.R
 
 
 
