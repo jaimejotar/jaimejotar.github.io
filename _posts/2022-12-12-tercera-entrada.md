@@ -5,16 +5,16 @@ title: Sistemas Recomendadores - Desafíos al futuro.
 
 Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, como la recomendación de productos en línea (Amazon, Mercado Libre, otras tiendas digitales y publicidad de tiendas en redes sociales), la personalización de contenido en plataformas de medios y redes sociales (nuestro "feed" de Twitter, Facebook, Instagram, Twitter). Aún existen múltiples desafíos en el campo de sistemas recomendadores. Limitemos a tres de los más importantes:
 
-## Calidad de los datos.
+## 1. Calidad de los datos.
 
 Uno de los principales desafíos es la falta de datos de calidad. Muchos sistemas recomendadores se basan en el uso de datos de interacción del usuario (como clics en item específicos o acciones de compra), para entrenar y mejorar sus modelos. Sin embargo, a veces puede ser difícil obtener datos suficientes y de calidad para entrenar estos modelos de manera efectiva. Además, los datos a menudo pueden ser incompletos o inexactos, lo que puede afectar la precisión y la efectividad de las recomendaciones.
 
 
-## Sobre-personalización (Sesgo por confirmación)
+## 2. Sobre-personalización (Sesgo por confirmación)
 
 Los sistemas recomendadores a menudo se basan en la personalización para proporcionar recomendaciones relevantes y personalizadas para cada usuario. Sin embargo, es posible que algunos sistemas proporcionen demasiada personalización, lo que puede llevar a una "burbuja" o "cámara de eco" en la que el usuario solo ve contenido que coincide con sus intereses y prejuicios preexistentes. Esto puede limitar la exposición del usuario a nuevas ideas y perspectivas y puede tener implicaciones negativas para la sociedad en general.
 
-## Sesgos en datos y modelos.
+## 3. Sesgos en datos y modelos.
 
 Los sistemas recomendadores a menudo se basan en datos históricos para proporcionar recomendaciones, lo que puede llevar a sesgos y discriminación en las recomendaciones. Por ejemplo, si un sistema recomendador se entrena en datos históricos que reflejan la discriminación de género, es posible que proporcione recomendaciones discriminatorias para los usuarios. Es importante tener en cuenta estos sesgos y trabajar para eliminarlos de los datos y los modelos de sistemas recomendadores.
 
