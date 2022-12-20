@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Sistemas de Recomendación y FAT-ML
+title: Sistemas Recomendadores - FAT-ML
 ---
+
+La abundancia de los datos digitales en conjunto a la popularidad del uso de algoritmos de inteligencia artifical y machine learning (ML) cada vez más complejos y difíciles de explicar, nos ha llevado a preguntarnos ¿Cómo evitar que un sistema provoque un impacto negativo en su aplicación en el mundo real? ¿Cómo afecta esto al campo de los sistemas de recomendación?
 
 # Qué es FAT-ML?
 
@@ -88,7 +90,7 @@ Actualmente existen agrupaciones como Queer in Ai [https://www.queerinai.com/] q
 
 Es importante como desarrolladores ponernos en el lugar de quienes podrían verse afectados por las soluciones que proponemos y buscar formas de explicar (más allá de métricas de desempeño) el impacto de nuestras propuestas en el área de algoritmos de ML.
 
-Es relativamente fácil quedarnos con la respuesta "Es lo que propuso el algoritmo" sin darnos la tarea de buscar los sesgos implícitos de nuestros datos, que vienen de nuestra propia sociedad. Es nuestro deber, como desarrolladores, buscar forma de mitigarlos, y de romper el ciclo.
+Es relativamente fácil quedarnos con la respuesta *"Es lo que propuso el algoritmo"* sin darnos la tarea de buscar los sesgos implícitos de nuestros datos, que vienen de nuestra propia sociedad. Es nuestro deber, como desarrolladores, buscar forma de mitigarlos, y de romper el ciclo.
 
 J.J.R
 
