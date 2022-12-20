@@ -317,6 +317,13 @@ Finalmente, para la recomendación de política, observamos que el modelo probab
 
 Es interesante lo que nos ofrece este tipo de modelos de lenguaje para el futuro de los sistemas recomendadores. Sin embargo, se observan algunas falencias, como que, al momento de argumentar o indicar que algun contenido es "popular" no nos entrega fuentes de referencia para sus respuestas. Si bien la conversación es coherente y parece responder correctamente nuestras preguntas, nos queda la duda si en realidad es una máquina inteligente capaz de resumir una gran cantidad de información para nuestro uso, o solo una máquina que nos está "engrupiendo" con un texto entrenado para parecer muy realista en base a lo que le solicitamos.
 
+
+
+![chatGPT](https://user-images.githubusercontent.com/42724306/208569525-b1768477-6e33-48ed-a9e2-1d2d9bb6d3fd.JPG)
+
+
+
+
 Nos queda el futuro para ver cómo nos soprenden estas tecnologías que vienen revolucionar el cómo interactuamos con las máquinas y con la información disponible en internet.
 
 _J.J.R_
