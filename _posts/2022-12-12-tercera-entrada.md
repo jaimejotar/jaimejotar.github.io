@@ -7,7 +7,7 @@ Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, 
 
 ## 1. Calidad de los datos.
 
-Uno de los principales desafíos es la falta de datos de calidad. Muchos sistemas recomendadores se basan en el uso de datos de interacción del usuario (como clics en item específicos o acciones de compra), para entrenar y mejorar sus modelos. Sin embargo, a veces puede ser difícil obtener datos suficientes y de calidad para entrenar estos modelos de manera efectiva. Además, los datos a menudo pueden ser incompletos o inexactos, lo que puede afectar la precisión y la efectividad de las recomendaciones.
+Uno de los principales desafíos es la falta de datos de calidad. Muchos sistemas recomendadores se basan en el uso de datos de interacción del usuario (como clicks en item específicos o acciones de compra), para entrenar y mejorar sus modelos. Sin embargo, a veces puede ser difícil obtener datos suficientes y de calidad para entrenar estos modelos de manera efectiva. Además, los datos a menudo pueden ser incompletos o inexactos, lo que puede afectar la precisión y la efectividad de las recomendaciones.
 
 
 ## 2. Sobre-personalización (Sesgo por confirmación)
