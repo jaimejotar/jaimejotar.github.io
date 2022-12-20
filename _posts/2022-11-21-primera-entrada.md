@@ -37,7 +37,12 @@ Se debe asegurar que existe un organismo, institucionalidad o ente que se hace r
 
 ## Transparency: Transparencia.
 
-Se espera que 
+Se espera que las características que afectan en la decisión de un algoritmo de ML sean visibles tanto para quienes lo usan, lo regulan y/o se ven afectados por estas decisiones. Esta es uno de los lineamientos más complicados en la actualidad con la masificación de algoritmos de Deep Learning con una enorme cantidad de parámetros (del orden de miles de millones), donde se dificulta el comprender a cabalidad el porqué el algoritmo toma una decisión o incluso, debido a la complejidad de la misma salida del algoritmo.
+
+# Problemas de sesgo en Sistemas de Recomendación
+
+
+<a href="url"><img src="https://i.dailymail.co.uk/i/pix/2018/02/12/20/4924BD1E00000578-0-image-a-21_1518465941000.jpg" align="center"></a>
 
 
 
