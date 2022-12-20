@@ -3,7 +3,7 @@ layout: post
 title: Sistemas Recomendadores - Desafíos al futuro.
 ---
 
-Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, como la recomendación de productos en línea (Amazon, eBay, Mercado Libre, otras tiendas digitales y publicidad de tiendas en redes sociales) o en la personalización de contenido en plataformas de medios y redes sociales (nuestro "feed" de Twitter, Facebook, Instagram, Twitter). Aún existen múltiples desafíos en el campo de sistemas recomendadores. Limitemos a tres de los más importantes:
+Los sistemas recomendadores se utilizan en una amplia variedad de aplicaciones, como la recomendación de productos en línea (Amazon, eBay, Mercado Libre, Ali-express y otras tiendas digitales) o en la personalización de contenido en plataformas de medios y redes sociales (el contenido de nuestro "feed", recomendación de personas y publicidad, que vemos en Twitter, Facebook, Instagram, TikTok, etc). Aún existen múltiples desafíos en el campo de sistemas recomendadores. A continuación, revisaremos solo algunos de los tres más importantes:
 
 ## 1. Calidad de los datos.
 
