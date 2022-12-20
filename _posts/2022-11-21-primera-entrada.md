@@ -56,7 +56,25 @@ La siguiente imagen [http://gendershades.org/overview.html] resume algunas de la
 En particular, es de mi interés explorar el impacto de decisiones de sistemas de recomendación de ML a grupos LGBTQ+. 
 Existen algunos ejemplos de cómo sistemas automatizados pueden terminar integrando sesgos a grupos minoritarios. Algunos ejemplos son:
 
-- En 2019v
+- En 2019, un grupo de creadores de contenido LGBTQ+ demandaron a YouTube por sistemáticamente desmonetizar a los videos de sus canales sin incumplir con las normativas del propio servicio, solo por su propio contenido. El cuál era categorizado como "contenido para adultos" o "sexual" pese a tener un caracter de entretención o educativo [https://www.vox.com/culture/2019/10/10/20893258/youtube-lgbtq-censorship-demonetization-nerd-city-algorithm-report].
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I did the opposite or best I thought. Both just have random gameplay footage I had on my laptop. <a href="https://t.co/5Nu9WSi1l3">pic.twitter.com/5Nu9WSi1l3</a></p>&mdash; Sarah 🎃 (@ProdigyGirlYT) <a href="https://twitter.com/ProdigyGirlYT/status/1178719793869926405?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Demostraron, por ejemplo que los siguientes videos era demonetizados solo por sus títulos:
+
+>
+>- “Gay -and Lesbian Guide to Vienna - VIENNA/NOW”
+>- “LGBT Tik Tok Compilation in Honor of Pride Month”
+>- “Top 10 Lesbian Couples in Hollywood Who Got Married”
+>- “Lesbian Princess”
+>- “Lesbian daughters with mom”
+>
+
+Sin embargo, todos volvían a ser aptos para ser "monetizados" al momento de cambiar los términos LGBTQ+ de los títulos a palabras como “friend” y “happy”.
+
+En casos más absurdos, se presentaron ejemplos en los cuales una usuaria subió un video con un gameplay sin mayor contenido, solo cambiando el título. Mientras el video titulado "Mi experiencia siendo una mujer hetero (heterosexual)" era monetizado, el titulado "LQBTQ y mi experiencia siendo lesbiana" era desmonetizado:
+
+
+![chatGPT2](https://user-images.githubusercontent.com/42724306/208563191-017f6b2b-2ddc-4afe-ba6e-0fde72e43cfa.JPG)
+
+
+![chatGPT1](https://user-images.githubusercontent.com/42724306/208563193-5f2161ec-f7fb-43db-8e93-92318a650291.JPG)
 
