@@ -5,11 +5,11 @@ title: Sistemas Recomendadores - Sistemas Conversacionales.
 
 Un sistema recomendador conversacional es aquel que, mediante el uso de lenguaje natural, puede entregar sugerencias personalizadas a través de una conversación con el usuario.
 
-Con el avance en estos últimos años en modelos de lenguaje, se han presentado soluciones como GPT-3. Un sistema lanzado en 2020, basado en Deep Learning y la arquitectura de Transformers, entrenado por OpenAI y que cuenta con más de 175 mil millones de parámetros [https://openai.com/api/]. Es de interés este modelo para referirnos a los Sistemas Conversacionales, con el reciente lanzamiento de ChatGPT [https://openai.com/blog/chatgpt/%5C/], un modelo basado en GPT-3 pero optimizado para mantener una conversación con el usuario.
+Con el avance en estos últimos años en modelos de lenguaje, se han presentado soluciones como GPT-3. Un sistema lanzado en 2020, basado en Deep Learning y la arquitectura de Transformers, entrenado por OpenAI y que cuenta con más de 175 mil millones de parámetros [Fuente](https://openai.com/api/). Es de interés este modelo para referirnos a los Sistemas Conversacionales, con el reciente lanzamiento de [ChatGP](https://openai.com/blog/chatgpt/%5C/), un modelo basado en GPT-3 pero optimizado para mantener una conversación con el usuario.
 
 # Probando ChatGPT como Sistema Recomendador Conversacional
 
-ChatGPT actualmente se encuentra en una fase de beta gratuita [https://chat.openai.com/chat], con la cuál se pueden probar sus funcionalidades. 
+ChatGPT actualmente se encuentra en una fase de [beta gratuita](https://chat.openai.com/chat), con la cuál se pueden probar sus funcionalidades. 
 
 A continuación, se mostrará una conversación para revisar su desempeño como un sistema recomendador conversacional, en idioma español, en cinco tópicos: 
 - Cine
