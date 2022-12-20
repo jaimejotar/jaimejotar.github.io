@@ -83,7 +83,7 @@ En casos más absurdos, se presentaron ejemplos en los cuales una usuaria subió
 ![chatGPT1](https://user-images.githubusercontent.com/42724306/208563193-5f2161ec-f7fb-43db-8e93-92318a650291.JPG)
 
 
-- En 2020, un artículo titulado [*"Queer erasure: Internet browsing can be biased against LGBTQ people, new exclusive research shows"*](https://journals.sagepub.com/doi/10.1177/0306422020917088) realizó un estudio sobre las noticias recomendadas por Google News, demostrando que un 46% de las noticias recomendadas sobre temática LGBTQ+ en su ventana de estudio correspondían a medios conservados (sinedo un 36%  medios cristianos), en contraste, solo un 4% provenía de noticias de medios liberales. Además, se identificó que pese a existir medios informativos exclusivamente de temática LGBTQ+, ninguno fue recomendado en el período estudiado.
+- En 2020, un artículo titulado [*"Queer erasure: Internet browsing can be biased against LGBTQ people, new exclusive research shows"*](https://journals.sagepub.com/doi/10.1177/0306422020917088) realizó un estudio sobre las noticias recomendadas por Google News, demostrando que un 46% de las noticias recomendadas sobre temática LGBTQ+ en su ventana de estudio correspondían a medios conservados (siendo un 36%  medios cristianos), en contraste, solo un 4% provenía de noticias de medios liberales. Además, se identificó que pese a existir medios informativos exclusivamente de temática LGBTQ+, ninguno fue recomendado en el período estudiado.
 
 
 - En 2022, un artículo titulado [*"Echo Chambers, Rabbit Holes, and Algorithmic Bias: How YouTube Recommends Content to Real Users"*](https://www.theregister.com/2022/10/18/youtube_algorithm_conservative_content/) [Fuente](https://csmapnyu.org/research/echo-chambers-rabbit-holes-and-algorithmic-bias-how-youtube-recommends-content-to-real-users) realizó un estudio sobre cómo, sin importar la ideología política original del usuario, YouTube terminaba recomendando contenido conservador. Llevando al usuario a una cámara de eco de contenido similar y cada vez más extremista.
@@ -92,7 +92,7 @@ Actualmente existen agrupaciones como [Queer in Ai](https://www.queerinai.com/) 
 
 Es importante como desarrolladores ponernos en el lugar de quienes podrían verse afectados por las soluciones que proponemos y buscar formas de explicar (más allá de métricas de desempeño) el impacto de nuestras propuestas en el área de algoritmos de ML.
 
-Es relativamente fácil quedarnos con la respuesta *"Es lo que propuso el algoritmo"* sin darnos la tarea de buscar los sesgos implícitos de nuestros datos, que vienen de nuestra propia sociedad. Es nuestro deber, como desarrolladores, buscar forma de mitigarlos, y de romper el ciclo.
+Es relativamente fácil quedarnos con la respuesta *"Es lo que propuso el algoritmo"* sin darnos la tarea de buscar los sesgos implícitos de nuestros datos, que vienen de nuestra propia sociedad. Es nuestro deber, como desarrolladores, buscar forma de mitigarlos y de, finalmente, romper el ciclo.
 
 _J.J.R_
 
