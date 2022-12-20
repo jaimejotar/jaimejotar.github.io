@@ -53,5 +53,10 @@ La siguiente imagen [http://gendershades.org/overview.html] resume algunas de la
 
 ## ¿Cómo pueden afectar estos sesgos a grupos específicos?
 
-En particular, es de mi interés explorar 
+En particular, es de mi interés explorar el impacto de decisiones de sistemas de recomendación de ML a grupos LGBTQ+. 
+Existen algunos ejemplos de cómo sistemas automatizados pueden terminar integrando sesgos a grupos minoritarios. Algunos ejemplos son:
+
+- En 2019v
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I did the opposite or best I thought. Both just have random gameplay footage I had on my laptop. <a href="https://t.co/5Nu9WSi1l3">pic.twitter.com/5Nu9WSi1l3</a></p>&mdash; Sarah 🎃 (@ProdigyGirlYT) <a href="https://twitter.com/ProdigyGirlYT/status/1178719793869926405?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
