@@ -94,7 +94,7 @@ Es importante como desarrolladores ponernos en el lugar de quienes podrían vers
 
 Es relativamente fácil quedarnos con la respuesta *"Es lo que propuso el algoritmo"* sin darnos la tarea de buscar los sesgos implícitos de nuestros datos, que vienen de nuestra propia sociedad. Es nuestro deber, como desarrolladores, buscar forma de mitigarlos, y de romper el ciclo.
 
-J.J.R
+_J.J.R_
 
 
 
