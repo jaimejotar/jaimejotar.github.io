@@ -7,7 +7,7 @@ La abundancia de los datos digitales en conjunto a la popularidad del uso de alg
 
 # Qué es FAT-ML?
 
-FAT-ML viene de la sigla en inglés "Fairness, Accountability, and Transparency in Machine Learning". El desarrollo de algoritmos de machine learning y su aplicación en el mundo real, provocan un impacto que en algunos casos puede llegar a ser negativo. En base a la problemática anterior, nacieron algunas agrupaciones como FAT-ML, que buscan entregar lineamientos y propuestas de regulación para evitar o mitigar efectos adversos provocados por utilizar soluciones derivadas de algoritmos de inteligencia artificial.
+FAT-ML viene de la sigla en inglés "Fairness, Accountability, and Transparency in Machine Learning". El desarrollo de algoritmos de machine learning y su aplicación en el mundo real, provocan un impacto que en algunos casos puede llegar a ser negativo. En base a la problemática anterior, nacieron algunas agrupaciones como [FAT-ML](https://www.fatml.org/) , que buscan entregar lineamientos y propuestas de regulación para evitar o mitigar efectos adversos provocados por utilizar soluciones derivadas de algoritmos de inteligencia artificial.
 
 En palabras de la propia organización:
 
@@ -45,7 +45,7 @@ Se espera que las características que afectan en la decisión de un algoritmo d
 
 # Problemas de sesgo en Sistemas de Recomendación
 
-La siguiente imagen [http://gendershades.org/overview.html] resume algunas de las amenazas de las decisiones de algoritmos de ML a nivel individual y social. 
+La siguiente imagen [fuente](http://gendershades.org/overview.html) resume algunas de las amenazas de las decisiones de algoritmos de ML a nivel individual y social. 
 
 
 <a href="url"><img src="https://i.dailymail.co.uk/i/pix/2018/02/12/20/4924BD1E00000578-0-image-a-21_1518465941000.jpg" align="center"></a>
@@ -60,7 +60,7 @@ La siguiente imagen [http://gendershades.org/overview.html] resume algunas de la
 En particular, es de mi interés explorar el impacto de decisiones de sistemas de recomendación de ML a grupos LGBTQ+. 
 Existen algunos ejemplos de cómo sistemas automatizados pueden terminar integrando sesgos a grupos minoritarios. Algunos ejemplos son:
 
-- En 2019, un grupo de creadores de contenido LGBTQ+ demandaron a YouTube por sistemáticamente desmonetizar a los videos de sus canales sin incumplir con las normativas del propio servicio, solo por su propio contenido. El cuál era categorizado como "contenido para adultos" o "sexual" pese a tener un caracter de entretención o educativo [https://www.vox.com/culture/2019/10/10/20893258/youtube-lgbtq-censorship-demonetization-nerd-city-algorithm-report] [https://www.bbc.com/news/technology-49369122].
+- En 2019, un grupo de creadores de contenido LGBTQ+ demandaron a YouTube por sistemáticamente desmonetizar a los videos de sus canales sin incumplir con las normativas del propio servicio, solo por su propio contenido. El cuál era categorizado como "contenido para adultos" o "sexual" pese a tener un caracter de entretención o educativo [Fuente: Vox.com](https://www.vox.com/culture/2019/10/10/20893258/youtube-lgbtq-censorship-demonetization-nerd-city-algorithm-report) [Fuente: BBC.com](https://www.bbc.com/news/technology-49369122).
 
 Demostraron, por ejemplo que los siguientes videos era desmonetizados solo por sus títulos:
 
@@ -83,12 +83,12 @@ En casos más absurdos, se presentaron ejemplos en los cuales una usuaria subió
 ![chatGPT1](https://user-images.githubusercontent.com/42724306/208563193-5f2161ec-f7fb-43db-8e93-92318a650291.JPG)
 
 
-- En 2020, un artículo titulado *"Queer erasure: Internet browsing can be biased against LGBTQ people, new exclusive research shows"* [https://journals.sagepub.com/doi/10.1177/0306422020917088] realizó un estudio sobre las noticias recomendadas por Google News, demostrando que un 46% de las noticias recomendadas sobre temática LGBTQ+ en su ventana de estudio correspondían a medios conservados (sinedo un 36%  medios cristianos), en contraste, solo un 4% provenía de noticias de medios liberales. Además, se identificó que pese a existir medios informativos exclusivamente de temática LGBTQ+, ninguno fue recomendado en el período estudiado.
+- En 2020, un artículo titulado *"Queer erasure: Internet browsing can be biased against LGBTQ people, new exclusive research shows"* [Fuente](https://journals.sagepub.com/doi/10.1177/0306422020917088) realizó un estudio sobre las noticias recomendadas por Google News, demostrando que un 46% de las noticias recomendadas sobre temática LGBTQ+ en su ventana de estudio correspondían a medios conservados (sinedo un 36%  medios cristianos), en contraste, solo un 4% provenía de noticias de medios liberales. Además, se identificó que pese a existir medios informativos exclusivamente de temática LGBTQ+, ninguno fue recomendado en el período estudiado.
 
 
-- En 2022, un artículo titulado *"Echo Chambers, Rabbit Holes, and Algorithmic Bias: How YouTube Recommends Content to Real Users"* [https://www.theregister.com/2022/10/18/youtube_algorithm_conservative_content/] [https://csmapnyu.org/research/echo-chambers-rabbit-holes-and-algorithmic-bias-how-youtube-recommends-content-to-real-users] realizó un estudio sobre cómo, sin importar la ideología política original del usuario, YouTube terminaba recomendando contenido conservador. Llevando al usuario a una cámara de eco de contenido similar y cada vez más extremista.
+- En 2022, un artículo titulado *"Echo Chambers, Rabbit Holes, and Algorithmic Bias: How YouTube Recommends Content to Real Users"* [Fuente](https://www.theregister.com/2022/10/18/youtube_algorithm_conservative_content/) [Fuente](https://csmapnyu.org/research/echo-chambers-rabbit-holes-and-algorithmic-bias-how-youtube-recommends-content-to-real-users) realizó un estudio sobre cómo, sin importar la ideología política original del usuario, YouTube terminaba recomendando contenido conservador. Llevando al usuario a una cámara de eco de contenido similar y cada vez más extremista.
 
-Actualmente existen agrupaciones como Queer in Ai [https://www.queerinai.com/] que buscan  generar conciencia sobre las implicancias de la IA/ML a la comunidad LGBTQ+. Que pueden sensibilizar a la población sobre este tipo de temáticas.
+Actualmente existen agrupaciones como [Queer in Ai](https://www.queerinai.com/) que buscan  generar conciencia sobre las implicancias de la IA/ML a la comunidad LGBTQ+. Que pueden sensibilizar a la población sobre este tipo de temáticas.
 
 Es importante como desarrolladores ponernos en el lugar de quienes podrían verse afectados por las soluciones que proponemos y buscar formas de explicar (más allá de métricas de desempeño) el impacto de nuestras propuestas en el área de algoritmos de ML.
 
