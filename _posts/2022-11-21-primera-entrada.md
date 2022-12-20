@@ -28,7 +28,9 @@ Se debe asegurar que las decisiones de un algoritmo de ML no generen discriminac
 
 ## Accountability: Responsabilidad y Explicabilidad
 
-Se debe asegurar que existe un organismo, institucionalidad o ente que se hace responsable ante los posibles impactos negativos de decisiones de un algoritmo de ML o sus mitigacione. Además, que tenga la obligación de reportar, explicat y justificar estas decisiones. Desde el punto de vista propuesto por FAT-ML, este punto debe considerar 5 aspectos claves:
+Se debe asegurar que existe un organismo, institucionalidad o ente que se hace responsable ante los posibles impactos negativos de decisiones de un algoritmo de ML o sus mitigaciones. Además, que tenga la obligación de reportar, explicar y justificar estas decisiones. 
+
+Desde el punto de vista propuesto por FAT-ML, esta "Accountability" debe considerar al menos 5 aspectos claves:
 
 - **Responsibility (Responsabilidad):** Se debe establecer claramente la intitución o ente a cargo de reparar porsibles efectos negativos de una decisión basada en algoritmos de ML.
 - **Explainability (Explicabilidad):** Se debe garantizar que las decisiones de un algoritmo de ML son explicables tanto para usuarios como para terceros en términos no-técnicos.
