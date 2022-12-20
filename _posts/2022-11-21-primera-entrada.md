@@ -41,8 +41,15 @@ Se espera que las características que afectan en la decisión de un algoritmo d
 
 # Problemas de sesgo en Sistemas de Recomendación
 
-
+La siguiente imagen [http://gendershades.org/overview.html] resume algunas de las amenazas de las decisiones de algoritmos de ML a nivel individual y social. 
 <a href="url"><img src="https://i.dailymail.co.uk/i/pix/2018/02/12/20/4924BD1E00000578-0-image-a-21_1518465941000.jpg" align="center"></a>
 
 
+
+
+
+
+## ¿Cómo pueden afectar estos sesgos a grupos específicos?
+
+En particular, es de mi interés explorar 
 
