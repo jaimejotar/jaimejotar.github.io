@@ -22,7 +22,7 @@ Los sistemas recomendadores a menudo se basan en datos históricos para proporci
 
 Muchos sesgos se originan a partir de los mismos datos de entrenamiento. Como el origen de los datos y contenido proviene del mundo actual ( e histórico), se traspasan sesgos que provienen de los propios datos, ya que lamentablemente nuestra historia y nuestra sociedad actual, es "sesgada".
 
-Específicamente para Sistemas Recomendadores existen desafíos inherentes a la propia tarea. Como lo explica el artículo: *"(Chan J. et al. ) Bias and Debias in Recommender System: A Survey and Future Directions"* [https://arxiv.org/pdf/2010.03240.pdf] existen loops dentro del mismo sistema que amplifican el sesgo del sistema recomendador, pero que pueden tener posibles soluciones sobre todo en publicaciones que se han ido incrementando en los últimos 5 años.
+Específicamente para Sistemas Recomendadores existen desafíos inherentes a la propia tarea. Como lo explica el artículo: [*"(Chan J. et al. ) Bias and Debias in Recommender System: A Survey and Future Directions"*](https://arxiv.org/pdf/2010.03240.pdf) existen loops dentro del mismo sistema que amplifican el sesgo del sistema recomendador, pero que pueden tener posibles soluciones sobre todo en publicaciones que se han ido incrementando en los últimos 5 años.
 
 ![chatGPT3](https://user-images.githubusercontent.com/42724306/208569949-3d947fae-266d-44c4-94cb-4a830501edc4.JPG)
 
@@ -38,4 +38,4 @@ Existen desafíos abiertos para resolver en torno a los Sistemas Recomendadores,
 
 Es nuestro deber como desarrolladores y como personas, buscar generar soluciones que no generen un impacto negativo en grupos de nuestra sociedad.
 
-J.J.R
+_J.J.R_
